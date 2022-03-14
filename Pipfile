@@ -14,6 +14,7 @@ tensorflow = "*"
 torch = "*"
 torchvision = "*"
 torchinfo = "*"
+torch-summary = "*"
 
 [dev-packages]
 
