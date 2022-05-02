@@ -18,6 +18,7 @@ imageio = "*"
 torch = "*"
 torchvision = "*"
 torchaudio = "*"
+imbalanced-learn = "*"
 
 [dev-packages]
 
