@@ -15,10 +15,14 @@ matplotlib = "*"
 pandas = "*"
 scikit-learn = "*"
 imageio = "*"
-torch = "*"
+torch = "==1.8"
 torchvision = "*"
 torchaudio = "*"
 imbalanced-learn = "*"
+torchinfo = "*"
+spacy = "*"
+torchtext = "==0.8"
+tqdm = "*"
 
 [dev-packages]
 
